@@ -17,3 +17,5 @@ There is also *doc* subdirectory that contain useful information and other resou
 ![Maix Bit v2](maixbit/doc/board.jpg)
 
 [maixbit](maixduino): Sipeed MaixDuino development board based on Kendryte [K210](https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf) SOC, [website](https://www.seeedstudio.com/Sipeed-Maixduino-Kit-for-RISC-V-AI-IoT-p-4047.html)
+
+![MaixDuino](https://github.com/SeeedDocument/Outsourcing/raw/master/Sipeed%20Pic/Maixduino%20intro.jpg)
